@@ -4,8 +4,11 @@
 ### 👨🏻‍💻 &nbsp;Sobre mi!
 
 💡 Disfruto explorando nuevas tecnologías y desarrollando soluciones de software y trucos rápidos.
+
 🎓 Estudiante de Desarrollo de Software con un marcado interés en el área de programación y redes informáticas.
+
 🌱 Me destaco por el aprendizaje constante, la responsabilidad y la capacidad para resolver problemas técnicos
+
 ✉️ ¡Puedes escribirme a Valenzunino2023@gmail.com Intentaré responderte lo antes posible.
 
 <img alt="Codificación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
