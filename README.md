@@ -8,11 +8,10 @@
              style="border-radius: 50%;" />
     </div>
 
-    <!-- TITULO -->
+    <!-- TITULO ANIMADO -->
     <div align="center">
-       <img src="https://readme-typing-svg.demolab.com?color=%2300C2FF&size=30&center=true&vCenter=true&width=750&height=50&lines=Hola%2C+soy+Valent%C3%ADn+Zunino+👋;Estudiante+de+Desarrollo+de+Software;Programador+Junior;Interesado+en+Back-End+y+Redes;Apasionado+por+la+Tecnolog%C3%ADa"
-     alt="Typing SVG" />
-
+        <img src="https://readme-typing-svg.demolab.com?color=%2300C2FF&size=30&center=true&vCenter=true&width=750&height=50&lines=Hola%2C+soy+Valent%C3%ADn+Zunino+👋;Estudiante+de+Desarrollo+de+Software;Programador+Junior;Interesado+en+Back-End+y+Redes;Apasionado+por+la+Tecnolog%C3%ADa"
+             alt="Typing SVG" />
     </div>
 
     <!-- LINKS -->
@@ -78,4 +77,3 @@
     </div>
 
 </div>
-
