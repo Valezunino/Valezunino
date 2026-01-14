@@ -1,79 +1,32 @@
-<div>
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-    <!-- FOTO PERSONAL -->
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/Valezunino/Valezunino/main/perfil.jpg"
-             alt="Valentín Zunino"
-             height="200"
-             style="border-radius: 50%;" />
-    </div>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-    <!-- TITULO ANIMADO -->
-    <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?color=%2300C2FF&size=30&center=true&vCenter=true&width=750&height=50&lines=Hola%2C+soy+Valent%C3%ADn+Zunino+👋;Estudiante+de+Desarrollo+de+Software;Programador+Junior;Interesado+en+Back-End+y+Redes;Apasionado+por+la+Tecnolog%C3%ADa"
-             alt="Typing SVG" />
-    </div>
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-    <!-- LINKS -->
-    <div align="center">
-        <a href="https://www.linkedin.com/in/valentin-zunino-b50a883a3/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin" />
-        </a>
-        <a href="https://github.com/Valezunino">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
-        </a>
-        <a href="mailto:Valezunino2023@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-        </a>
-    </div>
+### 👨🏻‍💻 &nbsp;About Me
 
-    <!-- DESCRIPCIÓN -->
-    <div align="left">
-        <br>
-        <p>
-            <strong>
-                Soy estudiante de Desarrollo de Software con interés en programación, redes y tecnologías IT.<br><br>
-                Me encuentro formándome en el área de desarrollo y soporte técnico, con conocimientos en
-                programación, lógica, redes, sistemas operativos y control de versiones.<br><br>
-                Busco mi primera oportunidad en IT como Trainee o Junior, donde pueda seguir aprendiendo,
-                ganar experiencia y aportar compromiso, responsabilidad y ganas de crecer.
-            </strong>
-        </p>
-    </div>
+💡 Disfruto explorando nuevas tecnologías y desarrollando soluciones de software y trucos rápidos.
+🎓 Estudiante de Desarrollo de Software con un marcado interés en el área de programación y redes informáticas.
+🌱 Me destaco por el aprendizaje constante, la responsabilidad y la capacidad para resolver problemas técnicos
+✍️ En mi tiempo libre, disfruto del diseño gráfico y de escribir blogs como pasatiempos/proyectos paralelos.
+✉️ ¡Puedes escribirme a Valenzunino2023@gmail.com Intentaré responderte lo antes posible.
+📄 Para más información sobre mí, consulta mi currículum (https://www.adityavsingh.com/resume.html). ¡Agradezco tus comentarios y sugerencias!
 
-    <!-- SKILLS -->
-    <div align="center">
-        <h2>🛠️ Tecnologías y Conocimientos</h2>
-        <img src="https://skillicons.dev/icons?i=python,git,github,linux,bash,html,css,js,mysql" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=vscode,windows" />
-    </div>
+<img alt="Codificación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-    <!-- INFO -->
-    <div align="left">
-        <ul>
-            <li>🌱 <b>Actualmente aprendiendo</b>: Python, Programación Back-End y Redes.</li>
-            <li>💻 <b>Áreas de interés</b>: Back-End, Networking, Sistemas y Linux.</li>
-            <li>🎯 <b>Objetivo</b>: Primer empleo en IT (Trainee / Junior).</li>
-            <li>📂 <b>Proyectos</b>: disponibles en mi <a href="https://github.com/Valezunino">GitHub</a>.</li>
-            <li>📫 <b>Contacto</b>: LinkedIn o correo electrónico.</li>
-        </ul>
-    </div>
+### 🛠 &nbsp;Tech Stack
 
-    <!-- STATS -->
-    <div align="center">
-        <h2>📊 Actividad en GitHub</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=Valezunino&show_icons=true&theme=dark"
-             height="180" />
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valezunino&theme=dark"
-             height="180" />
-    </div>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### ⚙️ &nbsp;GitHub Analytics
 
-    <!-- FOOTER -->
-    <div align="center">
-        <br>
-        <p>🚀 Siempre aprendiendo y mejorando día a día</p>
-    </div>
-
-</div>
+</p>
