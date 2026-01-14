@@ -1,21 +1,16 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi!
 
 💡 Disfruto explorando nuevas tecnologías y desarrollando soluciones de software y trucos rápidos.
 🎓 Estudiante de Desarrollo de Software con un marcado interés en el área de programación y redes informáticas.
 🌱 Me destaco por el aprendizaje constante, la responsabilidad y la capacidad para resolver problemas técnicos
-✍️ En mi tiempo libre, disfruto del diseño gráfico y de escribir blogs como pasatiempos/proyectos paralelos.
 ✉️ ¡Puedes escribirme a Valenzunino2023@gmail.com Intentaré responderte lo antes posible.
-📄 Para más información sobre mí, consulta mi currículum (https://www.adityavsingh.com/resume.html). ¡Agradezco tus comentarios y sugerencias!
 
 <img alt="Codificación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Lenguajes Tecnicos!
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
